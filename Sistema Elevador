@@ -1,0 +1,11 @@
+Implemente encapsulamento na classe Elevador e uma aplicação para realizar as seguintes funções em um array de 3 posições:
+1 - Cadastrar elevador
+2 - Consultar elevador
+3 - Alterar elevador
+4 - Listar elevadores
+
+
+Critérios de aceitação:
+No cadastro do elevador informar quando o array estiver cheio e não aceitar duplicidade de elevador com o mesmo código.
+Só consultar ou alterar elevador com código existente.
+Na consulta, alteração e listagem informar quanto o array estiver vazio.
